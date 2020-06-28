@@ -1,0 +1,21 @@
+/* products page */
+
+.productsContainer {
+  margin: 0 auto;
+  width: 80%;
+}
+
+/* table style */
+
+.productTableSpecification {
+  width: 40%;
+}
+
+.checkoutButton {
+  float: right;
+}
+
+.clearButton {
+  float: right;
+  margin-left: 20px !important;
+}

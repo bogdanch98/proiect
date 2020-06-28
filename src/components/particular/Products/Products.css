@@ -1,0 +1,12 @@
+/* products page */
+
+.productsContainer {
+  margin: 0 auto;
+  width: 80%;
+}
+
+/* table style */
+
+.productTableSpecification {
+  width: 40%;
+}
